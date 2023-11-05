@@ -1,29 +1,31 @@
-# vue-project
+<h1 align="center">
+  iWeather.com
+</h1>
 
-This template should help get you started developing with Vue 3 in Vite.
+<p align = "center"> You can watch the live preview of the project on [Preview](https://iweatherpbl.surge.sh/) </p>
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## ✨ Quick start
 
-## Customize configuration
+1.  **Clone this repository.**
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+    ```sh
+    git clone https://github.com/zhshakib/iWeather.com
+    ```
 
-## Project Setup
+2. Open the folder with Visual Studio Code.
 
-```sh
-npm install
-```
+3. Open Terminal by <kbd>ctrl + j</kbd> and paste the commands bellow:
 
-### Compile and Hot-Reload for Development
+    ```sh
+    npm install
+    ```
+    ```sh
+    npm run dev
+    ```
 
-```sh
-npm run dev
-```
+4. To build the project!
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+    ```sh
+    npm build
+    ```

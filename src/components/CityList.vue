@@ -38,6 +38,7 @@ const getCities = async () => {
     });
   }
 };
+
 await getCities();
 
 const router = useRouter();

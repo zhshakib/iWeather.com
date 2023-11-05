@@ -4,6 +4,7 @@ module.exports = {
     extend: {
       colors: {
         "weather-primary": "#00668A",
+        "weather-navigation": "#000D3E",
         "weather-secondary": "#004E71",
       },
     },
