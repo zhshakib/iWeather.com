@@ -2,7 +2,9 @@
   iWeather.com
 </h1>
 
-<p align = "center"> You can watch the live preview of the project on [Preview](https://iweatherpbl.surge.sh/) </p>
+<p align = "center"> You can watch the live preview of the project on <a href="https://iweatherpbl.surge.sh/" >Preview</a> </p>
+
+
 
 
 ## ✨ Quick start
